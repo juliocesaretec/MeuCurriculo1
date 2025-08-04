@@ -1,5 +1,5 @@
 # MeuCurriculo1
 Meu curriculo
 
-#https://juliocesaretec.github.io./MeuCurriculo1
+#https://juliocesaretec.github.io/MeuCurriculo
 
